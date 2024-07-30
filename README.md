@@ -1,4 +1,10 @@
 ## Olá,  Meu nome é André👋 e seja Bem vindo ao meu perfil no github.👋
+## Sobre mim
+Olá! Meu nome é André Luís de Souza Oliveira, sou estudante de graduação em Ciência da Computação na Universidade Federal de São Carlos (UFSCar) - campus Sorocaba. Tenho uma base sólida em várias áreas relacionadas a dados e uma forte paixão por promover a tecnologia e a inovação.
+
+Tenho experiência prática em Prompt Engineering de LLMs. Além disso, possuo habilidades em análise de dados, processos de ETL e manipulação de bancos de dados massivos usando ferramentas como PySpark (Databricks) e Neo4j.
+
+Estou ativamente buscando oportunidades na área de Tecnologia com foco em Ciência de Dados, Inteligência Artificial e Machine Learning. Que possam me permitir colaborar efetivamente em projetos complexos e multidisciplinares.
 
 <div>
 <a href="https://github.com/AndreLuis0106">
