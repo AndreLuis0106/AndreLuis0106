@@ -1,10 +1,12 @@
 ## Olá,  Meu nome é André👋 e seja Bem vindo ao meu perfil no github.👋
 ## Sobre mim
-Olá! Meu nome é André Luís de Souza Oliveira, sou estudante de graduação em Ciência da Computação na Universidade Federal de São Carlos (UFSCar) - campus Sorocaba. Tenho uma base sólida em várias áreas relacionadas a dados e uma forte paixão por promover a tecnologia e a inovação.
+Atualmente, sou estudante de Ciência da Computação na Universidade Federal de São Carlos (UFSCar) – campus Sorocaba. Tenho paixão por Ciência de Dados, Inteligência Artificial e Machine Learning, buscando sempre transformar dados em insights estratégicos e soluções inovadoras.
 
-Tenho experiência prática em Prompt Engineering de LLMs. Além disso, possuo habilidades em análise de dados, processos de ETL e manipulação de bancos de dados massivos usando ferramentas como PySpark (Databricks) e Neo4j.
+Possuo experiência prática com engenharia de prompts para LLMs, análise de dados, processos de ETL e manipulação de bancos de dados massivos, utilizando ferramentas como PySpark (Databricks), Neo4j, PostgreSQL e MongoDB. Além disso, já desenvolvi projetos em IA Generativa, aplicando técnicas como Retrieval Augmented Generation (RAG) para otimizar busca e recuperação de informações em bases estruturadas e não estruturadas.
 
-Estou ativamente buscando oportunidades na área de Tecnologia com foco em Ciência de Dados, Inteligência Artificial e Machine Learning. Que possam me permitir colaborar efetivamente em projetos complexos e multidisciplinares.
+Durante minha trajetória, atuei na Beets Jr., onde fui responsável pelo gerenciamento e entrega de projetos de tecnologia, aplicando metodologias ágeis como Scrum. Essa experiência fortaleceu minhas habilidades em trabalho em equipe, resolução de problemas e comunicação eficaz, além de contribuir para a obtenção de um NPS 8 nos projetos desenvolvidos.
+
+Estou em constante aprendizado e me mantenho atualizado sobre as tendências em Ciência de Dados, Inteligência Artificial e Machine Learning., sempre em busca de oportunidades que me permitam aplicar minhas habilidades para colaborar efetivamente em projetos complexos e multidisciplinares, assim crescer profissionalmente no ecossistema de dados e IA. 🚀
 
 <div>
 <a href="https://github.com/AndreLuis0106">
