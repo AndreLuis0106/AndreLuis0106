@@ -15,13 +15,13 @@ Estou em constante aprendizado e me mantenho atualizado sobre as tendências em 
 </div>
 
 ## Projetos
-[Curso Data Science Academy](https://github.com/AndreLuis0106/Curso-DSA-PowerBI)
-[Análise de emoção em textos usando NLP](https://github.com/AndreLuis0106/NLP-Emotion-Analysis)
-[Matéria Processamento Massivo de Dados](https://github.com/AndreLuis0106/PMD_2024)
-[Análise dos campeões do LoL](https://github.com/AndreLuis0106/Analise_LoL)
-[Hackoonspace - Detector de Phishing em emails](https://github.com/akamarc0s/phising-detector)
-[Classificação de gênero musical suando CNN](https://github.com/AndreLuis0106/classificacao_genero_musical_usando_cnn)
-[Reconhecimento de gênero musical - MIR](https://github.com/AndreLuis0106/reconhecimento_genero_musical)
+- [Curso Data Science Academy](https://github.com/AndreLuis0106/Curso-DSA-PowerBI)  
+- [Análise de emoção em textos usando NLP](https://github.com/AndreLuis0106/NLP-Emotion-Analysis)  
+- [Matéria Processamento Massivo de Dados](https://github.com/AndreLuis0106/PMD_2024)  
+- [Análise dos campeões do LoL](https://github.com/AndreLuis0106/Analise_LoL)  
+- [Hackoonspace - Detector de Phishing em emails](https://github.com/akamarc0s/phising-detector)  
+- [Classificação de gênero musical suando CNN](https://github.com/AndreLuis0106/classificacao_genero_musical_usando_cnn)  
+- [Reconhecimento de gênero musical - MIR](https://github.com/AndreLuis0106/reconhecimento_genero_musical)  
 
 
 ## Minhas habilidades:
