@@ -14,11 +14,29 @@ Estou em constante aprendizado e me mantenho atualizado sobre as tendências em 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLuis0106&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Projetos
+[Curso Data Science Academy](https://github.com/AndreLuis0106/Curso-DSA-PowerBI)
+[Análise de emoção em textos usando NLP](https://github.com/AndreLuis0106/NLP-Emotion-Analysis)
+[Matéria Processamento Massivo de Dados](https://github.com/AndreLuis0106/PMD_2024)
+[Análise dos campeões do LoL](https://github.com/AndreLuis0106/Analise_LoL)
+[Hackoonspace - Detector de Phishing em emails](https://github.com/akamarc0s/phising-detector)
+[Classificação de gênero musical suando CNN](https://github.com/AndreLuis0106/classificacao_genero_musical_usando_cnn)
+[Reconhecimento de gênero musical - MIR](https://github.com/AndreLuis0106/reconhecimento_genero_musical)
+
+
 ## Minhas habilidades:
 ### Linguagens:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+## Frameworks e Bibliotecas:
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Ferramentas
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -31,6 +49,8 @@ Estou em constante aprendizado e me mantenho atualizado sobre as tendências em 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
 ## Contatos:
