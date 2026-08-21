@@ -15,7 +15,6 @@ Estou em constante aprendizado e me mantenho atualizado sobre as tendências em 
 </div>
 
 ## Projetos
-- [Curso Data Science Academy](https://github.com/AndreLuis0106/Curso-DSA-PowerBI)  
 - [Análise de emoção em textos usando NLP](https://github.com/AndreLuis0106/NLP-Emotion-Analysis)  
 - [Matéria Processamento Massivo de Dados](https://github.com/AndreLuis0106/PMD_2024)  
 - [Análise dos campeões do LoL](https://github.com/AndreLuis0106/Analise_LoL)  
