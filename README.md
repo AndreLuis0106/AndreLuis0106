@@ -21,7 +21,8 @@ Estou em constante aprendizado e me mantenho atualizado sobre as tendências em 
 - [Análise dos campeões do LoL](https://github.com/AndreLuis0106/Analise_LoL)  
 - [Hackoonspace - Detector de Phishing em emails](https://github.com/akamarc0s/phising-detector)  
 - [Classificação de gênero musical suando CNN](https://github.com/AndreLuis0106/classificacao_genero_musical_usando_cnn)  
-- [Reconhecimento de gênero musical - MIR](https://github.com/AndreLuis0106/reconhecimento_genero_musical)  
+- [Reconhecimento de gênero musical - MIR](https://github.com/AndreLuis0106/reconhecimento_genero_musical)
+- [App de lista de compras inteligente](https://github.com/AndreLuis0106/App_lista_de_compras)
 
 
 ## Minhas habilidades:
