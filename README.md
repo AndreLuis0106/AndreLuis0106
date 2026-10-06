@@ -22,6 +22,7 @@ Estou em constante aprendizado e me mantenho atualizado sobre as tendências em 
 - [Classificação de gênero musical suando CNN](https://github.com/AndreLuis0106/classificacao_genero_musical_usando_cnn)  
 - [Reconhecimento de gênero musical - MIR](https://github.com/AndreLuis0106/reconhecimento_genero_musical)
 - [App de lista de compras inteligente](https://github.com/AndreLuis0106/App_lista_de_compras)
+- [Estudando usando o livro: Data Science do Zero](https://github.com/AndreLuis0106/data_science_do_zero)
 
 
 ## Minhas habilidades:
